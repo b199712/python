@@ -1,4 +1,4 @@
-# Python基本語法
+# Python 基本語法
 
 ## print
 ```python
